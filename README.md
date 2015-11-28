@@ -91,3 +91,7 @@ Enjoy it :)
 #### Prob34
 - [solution: prob34.py](https://github.com/chuhades/cipher/blob/master/solutions/prob34.py)
 - [readme: prob34-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob34-readme.txt)
+
+#### Prob35
+- [solution: prob35.py](https://github.com/chuhades/cipher/blob/master/solutions/prob35.py)
+- [readme: prob35-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob35-readme.txt)
