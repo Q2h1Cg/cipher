@@ -99,3 +99,11 @@ Enjoy it :)
 #### Prob35
 - [solution: prob35.py](https://github.com/chuhades/cipher/blob/master/solutions/prob35.py)
 - [readme: prob35-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob35-readme.txt)
+
+#### Prob39
+- [solution: prob39.py](https://github.com/chuhades/cipher/blob/master/solutions/prob39.py)
+- [readme: prob39-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob39-readme.txt)
+
+#### Prob40
+- [solution: prob40.py](https://github.com/chuhades/cipher/blob/master/solutions/prob40.py)
+- [readme: prob40-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob40-readme.txt)
