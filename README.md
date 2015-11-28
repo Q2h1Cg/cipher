@@ -68,6 +68,10 @@ Enjoy it :)
 - [solution: prob16.py](https://github.com/chuhades/cipher/blob/master/solutions/prob16.py)
 - [readme: prob16-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob16-readme.txt)
 
+#### Prob17
+- [solution: prob17.py](https://github.com/chuhades/cipher/blob/master/solutions/prob17.py)
+- [readme: prob17-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob17-readme.txt)
+
 #### Prob18
 - [solution: prob18.py](https://github.com/chuhades/cipher/blob/master/solutions/prob18.py)
 - [readme: prob18-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob18-readme.txt)
