@@ -36,3 +36,22 @@ Enjoy it :)
 - [solution: prob8.py](https://github.com/chuhades/cipher/blob/master/solutions/prob8.py)
 - [readme: prob8-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob8-readme.txt)
 
+#### Prob9
+- [solution: prob9.py](https://github.com/chuhades/cipher/blob/master/solutions/prob9.py)
+- [readme: prob9-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob9-readme.txt)
+
+#### Prob10
+- [solution: prob10.py](https://github.com/chuhades/cipher/blob/master/solutions/prob10.py)
+- [readme: prob10-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob10-readme.txt)
+
+#### Prob11
+- [solution: prob11.py](https://github.com/chuhades/cipher/blob/master/solutions/prob11.py)
+- [readme: prob11-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob11-readme.txt)
+
+#### Prob12
+- [solution: prob12.py](https://github.com/chuhades/cipher/blob/master/solutions/prob12.py)
+- [readme: prob12-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob12-readme.txt)
+
+#### Prob13
+- [solution: prob13.py](https://github.com/chuhades/cipher/blob/master/solutions/prob13.py)
+- [readme: prob13-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob13-readme.txt)
