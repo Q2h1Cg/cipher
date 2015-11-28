@@ -19,3 +19,7 @@ Enjoy it :)
 #### Prob4
 - [solution: prob4.py](https://github.com/chuhades/cipher/blob/master/solutions/prob4.py)
 - [readme: prob4-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob4-readme.txt)
+
+#### Prob5
+- [solution: prob5.py](https://github.com/chuhades/cipher/blob/master/solutions/prob5.py)
+- [readme: prob5-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob5-readme.txt)
