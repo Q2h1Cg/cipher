@@ -31,3 +31,8 @@ Enjoy it :)
 #### Prob7
 - [solution: prob7.py](https://github.com/chuhades/cipher/blob/master/solutions/prob7.py)
 - [readme: prob7-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob7-readme.txt)
+
+#### Prob8
+- [solution: prob8.py](https://github.com/chuhades/cipher/blob/master/solutions/prob8.py)
+- [readme: prob8-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob8-readme.txt)
+
