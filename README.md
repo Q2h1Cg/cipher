@@ -163,3 +163,11 @@ Enjoy it :)
 #### Prob43
 - [solution: prob43.py](https://github.com/chuhades/cipher/blob/master/solutions/prob43.py)
 - [readme: prob43-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob43-readme.txt)
+
+#### Prob44
+- [solution: prob44.py](https://github.com/chuhades/cipher/blob/master/solutions/prob44.py)
+- [readme: prob44-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob44-readme.txt)
+
+#### Prob45
+- [solution: prob45.py](https://github.com/chuhades/cipher/blob/master/solutions/prob45.py)
+- [readme: prob45-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob45-readme.txt)
