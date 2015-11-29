@@ -159,3 +159,7 @@ Enjoy it :)
 #### Prob42
 - [solution: prob42.py](https://github.com/chuhades/cipher/blob/master/solutions/prob42.py)
 - [readme: prob42-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob42-readme.txt)
+
+#### Prob43
+- [solution: prob43.py](https://github.com/chuhades/cipher/blob/master/solutions/prob43.py)
+- [readme: prob43-readme.txt](https://github.com/chuhades/cipher/blob/master/solutions/prob43-readme.txt)
