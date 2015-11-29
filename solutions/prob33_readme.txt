@@ -1,0 +1,2 @@
+Implement Diffie-Hellman
+题目描述：本题目的要求是对Diffie-Hellman密钥交换协议的实现，先用值很小的数字实现此算法，再用题目给出的大数p实现。
